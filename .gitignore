@@ -4,7 +4,15 @@
 /node_modules
 /.pnp
 .pnp.js
+.First.js
+.Login.js
+.NavTest.js
+.Second.js
+.Third.js
+.third.css
+.Fourth.js
 
+.
 # testing
 /coverage
 
